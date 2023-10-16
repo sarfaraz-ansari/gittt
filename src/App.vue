@@ -10,6 +10,7 @@ import Main from './components/Main.vue'
     <Welcome />
     <Main />
     <Footer />
+    <Footer />
 </template>
 
 <style scoped>
